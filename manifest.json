@@ -1,0 +1,207 @@
+{
+  "title": "Mathematics for Machine Learning and Deep Learning",
+  "notebook_count": 24,
+  "folder_count": 7,
+  "libraries": [
+    "NumPy",
+    "pandas",
+    "Matplotlib",
+    "Seaborn",
+    "Jupyter"
+  ],
+  "notebooks": [
+    {
+      "path": "1. Linear Algebra/01_vectors_and_norms.ipynb",
+      "title": "Vectors, Norms, and Similarity",
+      "folder": "1. Linear Algebra",
+      "cells": 25,
+      "code_cells": 10,
+      "embedded_figures": 2
+    },
+    {
+      "path": "1. Linear Algebra/02_matrices_and_linear_systems.ipynb",
+      "title": "Matrices and Linear Systems",
+      "folder": "1. Linear Algebra",
+      "cells": 23,
+      "code_cells": 9,
+      "embedded_figures": 2
+    },
+    {
+      "path": "1. Linear Algebra/03_vector_spaces_projections.ipynb",
+      "title": "Vector Spaces, Projections, and Least Squares",
+      "folder": "1. Linear Algebra",
+      "cells": 24,
+      "code_cells": 10,
+      "embedded_figures": 2
+    },
+    {
+      "path": "1. Linear Algebra/04_eigenvalues_and_decompositions.ipynb",
+      "title": "Eigenvalues and Matrix Decompositions",
+      "folder": "1. Linear Algebra",
+      "cells": 24,
+      "code_cells": 10,
+      "embedded_figures": 2
+    },
+    {
+      "path": "1. Linear Algebra/05_matrix_calculus_tensors_and_quadratic_forms.ipynb",
+      "title": "Matrix Calculus, Tensors, and Quadratic Forms",
+      "folder": "1. Linear Algebra",
+      "cells": 26,
+      "code_cells": 11,
+      "embedded_figures": 1
+    },
+    {
+      "path": "2. Calculus/06_derivatives_and_chain_rule.ipynb",
+      "title": "Derivatives, Partial Derivatives, and the Chain Rule",
+      "folder": "2. Calculus",
+      "cells": 24,
+      "code_cells": 10,
+      "embedded_figures": 2
+    },
+    {
+      "path": "2. Calculus/07_gradients_jacobians_vjp_hessians.ipynb",
+      "title": "Gradients, Jacobians, VJPs, and Hessians",
+      "folder": "2. Calculus",
+      "cells": 24,
+      "code_cells": 10,
+      "embedded_figures": 2
+    },
+    {
+      "path": "2. Calculus/08_integration_taylor_and_calculus_for_ml.ipynb",
+      "title": "Integration, Taylor Approximation, and Calculus for ML",
+      "folder": "2. Calculus",
+      "cells": 22,
+      "code_cells": 9,
+      "embedded_figures": 2
+    },
+    {
+      "path": "3. Probability and Statistics/09_probability_bayes_and_random_variables.ipynb",
+      "title": "Probability, Conditional Probability, and Bayes’ Rule",
+      "folder": "3. Probability and Statistics",
+      "cells": 23,
+      "code_cells": 9,
+      "embedded_figures": 1
+    },
+    {
+      "path": "3. Probability and Statistics/10_probability_distributions.ipynb",
+      "title": "Common Probability Distributions",
+      "folder": "3. Probability and Statistics",
+      "cells": 23,
+      "code_cells": 9,
+      "embedded_figures": 2
+    },
+    {
+      "path": "3. Probability and Statistics/11_descriptive_and_inferential_statistics.ipynb",
+      "title": "Descriptive and Inferential Statistics",
+      "folder": "3. Probability and Statistics",
+      "cells": 24,
+      "code_cells": 10,
+      "embedded_figures": 3
+    },
+    {
+      "path": "3. Probability and Statistics/12_mle_map_and_loss_functions.ipynb",
+      "title": "MLE, MAP, and Statistical Origins of Loss Functions",
+      "folder": "3. Probability and Statistics",
+      "cells": 24,
+      "code_cells": 10,
+      "embedded_figures": 2
+    },
+    {
+      "path": "4. Numerical Computation/13_floating_point_and_numerical_stability.ipynb",
+      "title": "Floating-Point Arithmetic and Numerical Stability",
+      "folder": "4. Numerical Computation",
+      "cells": 23,
+      "code_cells": 9,
+      "embedded_figures": 1
+    },
+    {
+      "path": "4. Numerical Computation/14_numerical_solvers_finite_differences_autodiff.ipynb",
+      "title": "Numerical Solvers, Finite Differences, and Automatic Differentiation",
+      "folder": "4. Numerical Computation",
+      "cells": 23,
+      "code_cells": 9,
+      "embedded_figures": 2
+    },
+    {
+      "path": "5. Optimization/15_gradient_descent_and_newton_methods.ipynb",
+      "title": "Gradient Descent and Newton Methods",
+      "folder": "5. Optimization",
+      "cells": 23,
+      "code_cells": 9,
+      "embedded_figures": 2
+    },
+    {
+      "path": "5. Optimization/16_constrained_and_convex_optimization.ipynb",
+      "title": "Constrained Optimization, Convexity, Lagrange Multipliers, and KKT",
+      "folder": "5. Optimization",
+      "cells": 23,
+      "code_cells": 9,
+      "embedded_figures": 2
+    },
+    {
+      "path": "5. Optimization/17_sgd_momentum_rmsprop_adam_adamw.ipynb",
+      "title": "SGD, Momentum, RMSprop, Adam, AdamW, and Loss Landscapes",
+      "folder": "5. Optimization",
+      "cells": 24,
+      "code_cells": 10,
+      "embedded_figures": 2
+    },
+    {
+      "path": "6. Information Theory/18_entropy_cross_entropy_kl_js_mutual_information.ipynb",
+      "title": "Entropy, Cross-Entropy, KL Divergence, JS Divergence, and Mutual Information",
+      "folder": "6. Information Theory",
+      "cells": 24,
+      "code_cells": 10,
+      "embedded_figures": 2
+    },
+    {
+      "path": "6. Information Theory/19_rate_distortion_and_information_bottleneck.ipynb",
+      "title": "Rate-Distortion, Compression, and the Information Bottleneck",
+      "folder": "6. Information Theory",
+      "cells": 22,
+      "code_cells": 8,
+      "embedded_figures": 2
+    },
+    {
+      "path": "7. Advanced Topics/20_stochastic_processes_sampling_mcmc.ipynb",
+      "title": "Stochastic Processes, Monte Carlo, Importance Sampling, and MCMC",
+      "folder": "7. Advanced Topics",
+      "cells": 25,
+      "code_cells": 10,
+      "embedded_figures": 2
+    },
+    {
+      "path": "7. Advanced Topics/21_graph_theory_laplacian_and_gnns.ipynb",
+      "title": "Graph Theory, Graph Laplacians, and Graph Neural Networks",
+      "folder": "7. Advanced Topics",
+      "cells": 23,
+      "code_cells": 9,
+      "embedded_figures": 2
+    },
+    {
+      "path": "7. Advanced Topics/22_differential_geometry_and_topology.ipynb",
+      "title": "Differential Geometry and Topology for Geometric Learning",
+      "folder": "7. Advanced Topics",
+      "cells": 23,
+      "code_cells": 9,
+      "embedded_figures": 3
+    },
+    {
+      "path": "7. Advanced Topics/23_odes_and_dynamical_systems_neural_odes.ipynb",
+      "title": "ODEs, Dynamical Systems, and Neural ODEs",
+      "folder": "7. Advanced Topics",
+      "cells": 23,
+      "code_cells": 9,
+      "embedded_figures": 2
+    },
+    {
+      "path": "7. Advanced Topics/24_harmonic_analysis_fourier_and_convolutions.ipynb",
+      "title": "Harmonic Analysis, Fourier Transforms, and Convolution",
+      "folder": "7. Advanced Topics",
+      "cells": 24,
+      "code_cells": 10,
+      "embedded_figures": 3
+    }
+  ],
+  "execution_errors": []
+}
